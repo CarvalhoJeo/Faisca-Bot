@@ -1,4 +1,4 @@
-# Faisca-Bot
+# Faísca-Bot
 ### O quê ele deve fazer:
 * Comandos padrão de gambling (pegar códigos prontos)
 * Fazer uso da [Discord UI Library](https://discord-ui.readthedocs.io/en/latest/index.html)
